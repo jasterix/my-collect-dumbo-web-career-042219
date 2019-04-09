@@ -7,7 +7,7 @@ def my_collect(collection)
     name_collection.push(yield(collection[i]))
     i+=1
   end
-  collection
+  name_collection
 end
     
 # my_collect(array) do |name|
