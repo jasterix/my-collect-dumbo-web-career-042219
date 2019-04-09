@@ -14,7 +14,8 @@ end
 #   name.split(" ").first
 # end
 
-my_collect(collection) do |lang|
-  lang.upcase
-end
+
+# my_collect(collection) do |lang|
+#   lang.upcase
+# end
 
